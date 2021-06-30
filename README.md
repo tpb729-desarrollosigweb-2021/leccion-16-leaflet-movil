@@ -14,7 +14,7 @@ body {
 }
 
 html, body, #mapid {
-  height: 100vw;
+  height: 100%;
   width: 100vw;
 }
 ```
