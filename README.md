@@ -1,7 +1,7 @@
 # Leaflet - mapas para dispositivos móviles
 En esta lección, se explica como configurar un mapa Leaflet para que se visualice adecuadamente en dispositivos móviles (ej. teléfonos celulares, tabletas). Esta configuración se realiza principalmente en el código HTML y CSS.
 
-El contenido de esta lección está basado en el tutorial de Leaflet:
+El contenido de esta lección está basado en el tutorial de Leaflet:  
 [Leaflet on mobile](https://leafletjs.com/examples/mobile/)
 
 ## Cambios en el código HTML y CSS
